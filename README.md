@@ -1,2 +1,3 @@
 # PYTHON
-My Python Programming journey 
+My Python Programming journey.
+author : Aryan Verma
