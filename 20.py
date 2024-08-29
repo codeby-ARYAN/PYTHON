@@ -4,7 +4,7 @@ x = int(input("enter x = "))
 i = 0
 while i < len(nums) :
     if x == nums[i] :
-        print("x is found.")
+        print("x is found at index",i)
         break    
     i += 1
     if i == len(nums):
