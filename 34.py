@@ -2,7 +2,7 @@
 def search_word(word):
     with open("practice.txt","r") as f:
         data = f.read()
-        if (word in data) :
+        if (word in data) : # here, "in" keyword used for founding 
             print("FOUND")
         else:
             print("Not Found")

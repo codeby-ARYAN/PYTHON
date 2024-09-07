@@ -4,5 +4,6 @@ def rec_sum(n):
         return 0
     else :
         return rec_sum(n-1)+n
+# recursion = calling of function in same function    
 n = int(input("n = "))
 print("sum of first",n,"natural numbers =",rec_sum(n))

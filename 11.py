@@ -4,6 +4,8 @@ copylist = list.copy()
 copylist.reverse()
 print(list)
 if copylist == list :
-    print("Palindrome")
+    print("Palindrome") 
 else:
     print("Not Palindrome")
+
+#palindrome = same meaning from both(front & reverse) sides of reading

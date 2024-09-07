@@ -5,7 +5,7 @@ with open("demo.txt", "r") as f:
     print(data)
     # num = ""
     # for i in range(len(data)):
-    #     if (data[i] == ","):
+    #     if (data[i] == ","):     #{alternate method}
     #         print(int(num))
     #         num = ""
     #     else:

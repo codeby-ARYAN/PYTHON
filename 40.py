@@ -13,11 +13,11 @@ class Employee:
         print("dept =", self.dept)
         print("salary =", self.salary)
 
-class Engineer(Employee):
+class Engineer(Employee):   # single Inheritance
     def __init__(self, name, age):
         self.name = name
         self.age = age
         super().__init__("Software Engineer", "IT", "Rs. 1,00,000")
-
-engg1 = Engineer("Arnav Singh",29)        
+        # super() method used to access method of parent class
+engg1 = Engineer("Arnav Singh",29)   #instance
 engg1.showDetails()

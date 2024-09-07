@@ -5,7 +5,7 @@ def find_line(word):
     line = 1
     with open("practice.txt","r") as f:
         while data:
-            data = f.readline()
+            data = f.readline()  # read line from data
             if (word in data):
                 print(line)
                 return

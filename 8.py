@@ -2,7 +2,7 @@
 a = float(input("num1 = "))
 b = float(input("num2 = "))
 c = float(input("num3 = "))
-if (a>b and a>c):
+if (a>b and a>c):     # and, or, not conditions 
     print("num1 is greatest")
 elif (b>c):
     print("num2 is greatest")

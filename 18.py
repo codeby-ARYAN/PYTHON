@@ -1,4 +1,4 @@
-#Print the multiplication table of a number n
+# Print the multiplication table of a number n
 n = int(input("number = "))
 i=1
 while i <= 10 :
