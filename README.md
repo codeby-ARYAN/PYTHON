@@ -1,8 +1,8 @@
 # PYTHON
 My Python Programming journey.
 <br>
-author : Aryan Verma
+author : <b>Aryan Verma</b>
 <br>
 Thanks for exploring my python code
-<br>
-Referred to 'index.txt' file
+<br> <hr>
+Refers to <i>'index.txt'</i> file.
