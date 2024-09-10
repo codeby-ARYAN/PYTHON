@@ -1,44 +1,42 @@
-<h2>CONTENTS OF THE REPOSITORY</h2>
-<ol>
-#WAP to input 2 numbers &print sum
-#WAP to input side of a square & print its area 
-#WAP to print average of two input floating numbers
-# WAP to input 2 integer numbers.
-#WAP to input user's first name & print its length
-#WAP to find the occurrence of $ in a string
-#WAP to check if a number is entered by the user is odd or even
-#WAP to find the greatest of 3 numbers entered by user
-#WAP to check if a number is a multiple of 7 or not
-# WAP to ask the user to enter names of their 3 favourite movies
-#WAP to check if a list contains a palindrome of elements.
-#WAP to count the number of students with the "A"grade in following tuple:
-#Store following word meanings in a dictionary
-# on given list of subjects for the students,# How many classrooms are needed by all students?# Assume 1 classroom required for 1 subject
-# WAP to enter marks of 3 subjects from user and store them in a dictionary.# Start with an empty dictionary & add one by one.
-# figure out a way to store 9 & 9.0 as separate values in a set. # Take help from built in data types.
-# Take help from built in data types.# Print numbers from 1 to 100 and 100 to 1
-# Print the multiplication table of a number n
-# Print the elements of the following list using a loop
-# Search for a number x in this tuple using loop: 
-#USING for loop, Print the elements of the following list:
-#Using for and range() function, Print numbers from 1 to 100 or 100 to 1
-# print multiplication of number n
-# WAP To print sum of first n natural numbers using while loop
-#WAP to find the factorial of n number using for loop
-# WAF to print the length of a list.(list is the parameter)
-# WAF to print the elements of a list in a single line.(list is the parameter)
-# WAF to find the factorial of n.(n is the parameter)
-# WAF to convert USD to INR
-# Write a recursive function to calculate the sum of first n natural number
-# Write a recursive function to print all elements in a list.(Hint : use list & index as parameters)
-# Create a new file "practice.txt" using python.Add the following data in it:
-# WAF that replaces all occurrences of "Java" with "Python" in above "practice.txt" file
-# Search if the word "learning" exists in the file or not.
-# WAF to find in which line of the file does the word "learning" occur first.# Print- 1 if word not found
-# From a file containing numbers separated by comma,print the count of even numbers.
-# Create student class that takes name & marks of 3 subjects as arguments in constructor.# then create a method to print the average.
-# Create Account class with 2 attributes - balance & account no. # Create methods for debit , creadit, &prinnt the balance.
-# Define a Circle class with radius r using constructor.# then create area() & perimeter() method to calculate area & perimeter of the circle
-# Define a Employee class with attributes role,department & salary.Also create showDetails() method.# Create an Engineer class that inherits properties from employee & also have attributes: name & age
-# Create a class called Order which stores item & its price.# use dunder function __gt__() to convey that : order1>order2 ,if  price of order1 > price of order2
-</ol>
+👉CONTENTS OF THE REPOSITORY👈
+1. # WAP to input 2 numbers &print sum
+2. # WAP to input side of a square & print its area 
+3. # WAP to print average of two input floating numbers
+4. # WAP to input 2 integer numbers.
+5. # WAP to input user's first name & print its length
+6. # WAP to find the occurrence of $ in a string
+7. # WAP to check if a number is entered by the user is odd or even
+8. # WAP to find the greatest of 3 numbers entered by user
+9. # WAP to check if a number is a multiple of 7 or not
+10.# WAP to ask the user to enter names of their 3 favourite movies
+11.# WAP to check if a list contains a palindrome of elements.
+12.# WAP to count the number of students with the "A"grade in following tuple:
+13.# Store following word meanings in a dictionary
+14.# on given list of subjects for the students, # How many classrooms are needed by all students? # Assume 1 classroom required for 1 subject
+15.# WAP to enter marks of 3 subjects from user and store them in a dictionary. # Start with an empty dictionary & add one by one.
+16.# figure out a way to store 9 & 9.0 as separate values in a set. # Take help from built in data types.
+17.# Take help from built in data types.# Print numbers from 1 to 100 and 100 to 1
+18.# Print the multiplication table of a number n
+19.# Print the elements of the given list using loop
+20.# Search for a number x in the given tuple using loop
+21.# USING for loop, Print the elements of the given list
+22.# Using for and range() function, Print numbers from 1 to 100 or 100 to 1
+23.# print multiplication of number n
+24.# WAP To print sum of first n natural numbers using while loop
+25.# WAP to find the factorial of n number using for loop
+26.# WAF to print the length of a list.(list is the parameter)
+27.# WAF to print the elements of a list in a single line.(list is the parameter)
+28.# WAF to find the factorial of n.(n is the parameter)
+29.# WAF to convert USD to INR
+30.# Write a recursive function to calculate the sum of first n natural number
+31.# Write a recursive function to print all elements in a list.(Hint : use list & index as parameters)
+32.# Create a new file "practice.txt" using python.Add the following data in it:
+33.# WAF that replaces all occurrences of "Java" with "Python" in above "practice.txt" file
+34.# Search if the word "learning" exists in the file or not.
+35.# WAF to find in which line of the file does the word "learning" occur first. # Print- 1 if word not found
+36.# From a file containing numbers separated by comma,print the count of even numbers.
+37.# Create student class that takes name & marks of 3 subjects as arguments in constructor. # then create a method to print the average.
+38.# Create Account class with 2 attributes - balance & account no. # Create methods for debit , creadit, &prinnt the balance.
+39.# Define a Circle class with radius r using constructor. # then create area() & perimeter() method to calculate area & perimeter of the circle
+40.# Define a Employee class with attributes role,department & salary.Also create showDetails() method. # Create an Engineer class that inherits properties from employee & also have attributes: name & age
+41.# Create a class called Order which stores item & its price. # use dunder function __gt__() to convey that : order1>order2 ,if  price of order1 > price of order2
