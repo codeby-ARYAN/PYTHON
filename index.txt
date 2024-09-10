@@ -1,3 +1,4 @@
+<h2>CONTENTS OF THE REPOSITORY</h2>
 <ol>
 #WAP to input 2 numbers &print sum
 #WAP to input side of a square & print its area 
