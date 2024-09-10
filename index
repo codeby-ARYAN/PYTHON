@@ -1,3 +1,4 @@
+<ol>
 #WAP to input 2 numbers &print sum
 #WAP to input side of a square & print its area 
 #WAP to print average of two input floating numbers
@@ -39,3 +40,4 @@
 # Define a Circle class with radius r using constructor.# then create area() & perimeter() method to calculate area & perimeter of the circle
 # Define a Employee class with attributes role,department & salary.Also create showDetails() method.# Create an Engineer class that inherits properties from employee & also have attributes: name & age
 # Create a class called Order which stores item & its price.# use dunder function __gt__() to convey that : order1>order2 ,if  price of order1 > price of order2
+</ol>
